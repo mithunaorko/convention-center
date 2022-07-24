@@ -24,12 +24,10 @@ body{
     /* rtl:remove */
     letter-spacing: -.05rem;
   }
-.paragraph{
-    font-weight: 500;
-    align-items: center;
-}  
 
 
+  /* Pricing Area */
+  
 .rounded-lg{
     border-radius: 1.2rem;
 }
