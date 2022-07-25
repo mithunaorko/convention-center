@@ -35,10 +35,6 @@ body{
 /* Footer */
 .footer-area {
     padding: 2.5rem 0;
-    text-align: center;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     border-top: .05rem solid #e5e5e5;
-  }
-  .footer-area p:last-child {
-    margin-bottom: 0;
   }
