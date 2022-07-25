@@ -9,7 +9,6 @@ body{
     margin-bottom: 5rem;
 }
 
-
 /* Explorer Album Area */
 
 .details{
@@ -18,10 +17,11 @@ body{
     justify-content: center;
 }
 
+
+
 .content-heading {
     font-weight: 700;
     line-height: 1;
-    /* rtl:remove */
     letter-spacing: -.05rem;
   }
 
@@ -32,3 +32,13 @@ body{
     border-radius: 1.2rem;
 }
 
+/* Footer */
+.footer-area {
+    padding: 2.5rem 0;
+    text-align: center;
+    background-color: black;
+    border-top: .05rem solid #e5e5e5;
+  }
+  .footer-area p:last-child {
+    margin-bottom: 0;
+  }
